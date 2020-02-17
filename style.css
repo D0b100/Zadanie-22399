@@ -1,0 +1,25 @@
+div {
+    background-color: wheat;
+    display: inline-block;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+h2 {
+    color: red;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+p.orange {
+    color: orange;
+
+}
+
+p.blue {
+    color: blue;
+}
